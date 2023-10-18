@@ -1,0 +1,34 @@
+﻿*{
+
+    color:white;
+}
+.body-resume {
+    height: 100vh;
+    background: linear-gradient( to right, black 0%, black 30%, deepskyblue 30%, deepskyblue 100% );
+    color: white;
+}
+
+.resume-social-icon  {
+
+    text-decoration:none;
+    color:white;
+}
+
+
+.resume-pic {
+    border-radius: 50%;
+    width: 230px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.cotact-resume a{
+    color:white;
+    text-decoration:none;
+}
+.cotact-resume a:hover{
+    text-decoration:underline;
+    color:deepskyblue;
+
+}
